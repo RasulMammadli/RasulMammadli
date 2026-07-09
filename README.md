@@ -35,8 +35,8 @@ Beyond the terminal, I am a competitive **3rd-Degree Chess Player** (which shape
 
 ## 🎯 Current Focus & Aspirations
 
-- 🧠 Deepening my expertise in **Automated Threat Hunting** and defense-in-depth strategies.
-- 🎓 Preparing for world-class undergraduate programs in Cyber Security and Computer Science.
+- 🎓 **Global Education, National Mission:** Driven by the ultimate goal of studying Cyber Security at a world-class elite university abroad, acquiring cutting-edge global expertise, and returning home to significantly strengthen and safeguard my nation's cyber infrastructure.
+- 🧠 Deepening my technical skills in **Automated Threat Hunting** and defense-in-depth strategies.
 - ♟️ Applying tactical chess strategies to modern defensive and offensive cyber operations.
 
 ---
