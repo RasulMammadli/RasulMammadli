@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Rasul! 
+### 🚀 Aspiring Cyber Security Researcher & Software Engineer
 
-<!--
-**RasulMammadli/RasulMammadli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A highly motivated student and aspiring Cyber Security specialist focused on **Digital Forensics, Threat Analysis, and Secure Software Development**. I love analyzing system behaviors, investigating network anomalies, and building security tools from scratch using Java.
 
-Here are some ideas to get you started:
+Beyond the terminal, I am a competitive **3rd-Degree Chess Player** (which shapes my strategic approach to threat hunting) and an active digital volunteering participant.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Toolkit
+
+- **Languages:** Java (Core & Advanced), Bash/Shell Scripting
+- **Domains:** Threat Intelligence, SIEM & Log Parsing, Incident Response Simulation
+- **Tools & Environments:** IntelliJ IDEA, Git, GitHub, Windows/Linux Environments
+
+---
+
+## 🔬 Featured Security Projects
+
+### 🛡️ [Java-Based Server Log Analyzer](https://github.com/RasulMammadli/Java-Based-Server-Log-Analyzer)
+*An automated log processing engine built to simulate threat detection and analyze network security events.*
+- Parses massive infrastructure logs to identify brute-force indicators, suspicious IP behaviors, and unauthorized access anomalies.
+- Implements custom text-parsing algorithms to clean raw data and extract high-fidelity forensic alerts.
+- Generates structured and actionable security reports directly to the console for real-time incident analysis.
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RasulMammadli&show_icons=true&theme=tokyonight" alt="Rasul's GitHub Stats" />
+</p>
+
+---
+
+## 🎯 Current Focus & Aspirations
+
+- 🧠 Deepening my expertise in **Automated Threat Hunting** and defense-in-depth strategies.
+- 🎓 Preparing for world-class undergraduate programs in Cyber Security and Computer Science.
+- ♟️ Applying tactical chess strategies to modern defensive and offensive cyber operations.
+
+---
+
+## 🤝 Connect with me
+
+- **GitHub:** [@RasulMammadli](https://github.com/RasulMammadli)
+- **Email:** [resulm137@gmail.com](mailto:resulm137@gmail.com)
+
+*"The best way to predict the future is to secure it."* 🛡️
