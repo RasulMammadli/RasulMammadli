@@ -27,9 +27,7 @@ Beyond the terminal, I am a competitive **3rd-Degree Chess Player** (which shape
 
 ## 📊 My GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RasulMammadli&show_icons=true&theme=tokyonight" alt="Rasul's GitHub Stats" />
-</p>
+![Rasul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RasulMammadli&show_icons=true&theme=radial)
 
 ---
 
