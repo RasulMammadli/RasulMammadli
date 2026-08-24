@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Rasul! 
-### 🚀 Aspiring Cyber Security Researcher & Software Engineer
+#  Hi, I'm Rasul! 
+###  Aspiring Cyber Security Researcher & Software Engineer
 
 A highly motivated student and aspiring Cyber Security specialist focused on **Digital Forensics, Threat Analysis, and Secure Software Development**. I love analyzing system behaviors, investigating network anomalies, and building security tools from scratch using Java.
 
@@ -7,7 +7,7 @@ Beyond the terminal, I am a competitive **3rd-Degree Chess Player** (which shape
 
 ---
 
-## 🛠️ Tech Stack & Toolkit
+##  Tech Stack & Toolkit
 
 - **Languages:** Java (Core & Advanced), Bash/Shell Scripting
 - **Domains:** Threat Intelligence, SIEM & Log Parsing, Incident Response Simulation
@@ -15,9 +15,9 @@ Beyond the terminal, I am a competitive **3rd-Degree Chess Player** (which shape
 
 ---
 
-## 🔬 Featured Security Projects
+##  Featured Security Projects
 
-### 🛡️ [Java-Based Server Log Analyzer](https://github.com/RasulMammadli/Java-Based-Server-Log-Analyzer)
+###  [Java-Based Server Log Analyzer](https://github.com/RasulMammadli/Java-Based-Server-Log-Analyzer)
 *An automated log processing engine built to simulate threat detection and analyze network security events.*
 - Parses massive infrastructure logs to identify brute-force indicators, suspicious IP behaviors, and unauthorized access anomalies.
 - Implements custom text-parsing algorithms to clean raw data and extract high-fidelity forensic alerts.
@@ -25,7 +25,7 @@ Beyond the terminal, I am a competitive **3rd-Degree Chess Player** (which shape
 
 ---
 
-## 📊 My GitHub Stats
+##  My GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RasulMammadli&theme=dracula" alt="GitHub Stats" />
@@ -33,17 +33,17 @@ Beyond the terminal, I am a competitive **3rd-Degree Chess Player** (which shape
 
 ---
 
-## 🎯 Current Focus & Aspirations
+##  Current Focus & Aspirations
 
-- 🎓 **Global Education, National Mission:** Driven by the ultimate goal of studying Cyber Security at a world-class elite university abroad, acquiring cutting-edge global expertise, and returning home to significantly strengthen and safeguard my nation's cyber infrastructure.
-- 🧠 Deepening my technical skills in **Automated Threat Hunting** and defense-in-depth strategies.
-- ♟️ Applying tactical chess strategies to modern defensive and offensive cyber operations.
+-  **Global Education, National Mission:** Driven by the ultimate goal of studying Cyber Security at a world-class elite university abroad, acquiring cutting-edge global expertise, and returning home to significantly strengthen and safeguard my nation's cyber infrastructure.
+-  Deepening my technical skills in **Automated Threat Hunting** and defense-in-depth strategies.
+-  Applying tactical chess strategies to modern defensive and offensive cyber operations.
 
 ---
 
-## 🤝 Connect with me
+##  Connect with me
 
 - **GitHub:** [@RasulMammadli](https://github.com/RasulMammadli)
 - **Email:** [resulm137@gmail.com](mailto:resulm137@gmail.com)
 
-*"The best way to predict the future is to secure it."* 🛡️
+*"The best way to predict the future is to secure it."* 
