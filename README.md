@@ -1,4 +1,4 @@
-#  Hi, I'm Rasul! 
+#  Hi, I'm Rasul! 🇦🇿
 ###  Aspiring Cyber Security Researcher & Software Engineer
 
 A highly motivated student and aspiring Cyber Security specialist focused on **Digital Forensics, Threat Analysis, and Secure Software Development**. I love analyzing system behaviors, investigating network anomalies, and building security tools from scratch using Java.
@@ -35,7 +35,7 @@ Beyond the terminal, I am a competitive **3rd-Degree Chess Player** (which shape
 
 ##  Current Focus & Aspirations
 
--  **Global Education, National Mission:** Driven by the ultimate goal of studying Cyber Security at a world-class elite university abroad, acquiring cutting-edge global expertise, and returning home to significantly strengthen and safeguard my nation's cyber infrastructure.
+-  **🇦🇿 Global Education, National Mission:** Driven by the ultimate goal of studying Cyber Security at a world-class elite university abroad, acquiring cutting-edge global expertise, and returning home to significantly strengthen and safeguard my nation's cyber infrastructure.
 -  Deepening my technical skills in **Automated Threat Hunting** and defense-in-depth strategies.
 -  Applying tactical chess strategies to modern defensive and offensive cyber operations.
 
