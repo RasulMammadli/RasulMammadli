@@ -1,53 +1,62 @@
-<div align="center">
-
 # 👋 Hi, I'm Rasul! 🇦🇿
 
 ### Cyber Security Researcher · Software Engineer
 
-**Digital Forensics · Threat Analysis · Secure Development**
-
-[![GitHub](https://img.shields.io/badge/GitHub-RasulMammadli-181717?style=for-the-badge\&logo=github)](https://github.com/RasulMammadli)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:resulm137@gmail.com)
-
-</div>
+**Digital Forensics • Threat Analysis • Secure Development**
 
 ---
 
 ## 🧠 About Me
 
-Student passionate about **Cyber Security & Software Engineering**.
-Focused on **Digital Forensics, Threat Hunting, SIEM, and Java development**.
+I'm a motivated student passionate about **Cyber Security** and **Software Engineering**.
 
-♟️ 3rd-Degree Chess Player
+I enjoy investigating system behavior, analyzing security events, and building practical security tools with **Java**.
+
+♟️ **3rd-Degree Chess Player** — bringing strategic thinking into cybersecurity.
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Tech Stack
 
-`Java` · `Bash` · `Git` · `Linux` · `Windows`
-`Digital Forensics` · `Threat Intelligence` · `SIEM` · `Incident Response`
+**Languages**
+
+`Java` · `Bash`
+
+**Cybersecurity**
+
+`Digital Forensics` · `Threat Intelligence` · `SIEM` · `Log Analysis` · `Incident Response`
+
+**Tools**
+
+`Git` · `GitHub` · `IntelliJ IDEA` · `Linux` · `Windows`
 
 ---
 
 ## 🔐 Featured Project
 
-**[Java-Based Server Log Analyzer](https://github.com/RasulMammadli/Java-Based-Server-Log-Analyzer)**
+### Java-Based Server Log Analyzer
 
-Java-based security tool for detecting **brute-force attempts, suspicious IPs, and unauthorized access**.
+Security-focused Java tool designed to analyze server logs and identify suspicious activity.
 
----
-
-## 🎯 Focus
-
-🔎 Threat Hunting · 🧾 Digital Forensics · 📊 SIEM
-🚨 Incident Response · 🌐 Network Security · 🔐 Secure Development
+* 🔎 Brute-force detection
+* 🌐 Suspicious IP analysis
+* 🚨 Unauthorized access detection
+* 📊 Structured security reports
 
 ---
 
-<div align="center">
+## 🎯 Current Focus
+
+* *🇦🇿 Global Education, National Mission:* Driven by the ultimate goal of studying Cyber Security at a world-class elite university abroad, acquiring cutting-edge global expertise, and returning home to significantly strengthen and safeguard my nation's cyber infrastructure.
+* Deepening my technical skills in *Automated Threat Hunting* and defense-in-depth strategies.
+* Applying tactical chess strategies to modern defensive and offensive cyber operations.
+
+---
+
+## 📊 GitHub Stats
+
+---
 
 ### 🔐 Investigate. Build. Secure.
 
-🇦🇿 **Building from Azerbaijan**
-
-</div>
+**🇦🇿 From Azerbaijan, building for the future.**
