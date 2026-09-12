@@ -119,8 +119,7 @@ An automated security-focused log processing engine designed to simulate **real-
 
 # 🎯 Current Focus
 
-```text
-```
+
 
 Currently, I'm focused on strengthening my technical foundations while building practical security projects.
 
