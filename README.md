@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Rasul Mammadli
+# Hi, I'm Rasul Mammadli
 
 ### `Cyber Security Researcher` · `Software Engineer` · `Security Enthusiast`
 
@@ -21,23 +21,23 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I'm a motivated student building my path toward **Cyber Security Research** and **Secure Software Engineering**.
 
 My main interests sit at the intersection of:
 
-* 🔎 **Digital Forensics**
-* 🛡️ **Threat Analysis & Threat Hunting**
-* 📊 **SIEM & Log Analysis**
-* 🚨 **Incident Response**
-* 💻 **Secure Software Development**
-* 🌐 **Network Security**
+*  **Digital Forensics**
+*  **Threat Analysis & Threat Hunting**
+*  **SIEM & Log Analysis**
+*  **Incident Response**
+*  **Secure Software Development**
+*  **Network Security**
 
 I enjoy going beyond theory — **analyzing system behavior, investigating anomalies, understanding attack patterns, and building security-oriented tools from scratch.**
 
-> ♟️ Chess taught me to think several moves ahead.
-> 🛡️ Cybersecurity taught me that attackers do the same.
+>  Chess taught me to think several moves ahead.
+>  Cybersecurity taught me that attackers do the same.
 
 ---
 
@@ -45,14 +45,14 @@ I enjoy going beyond theory — **analyzing system behavior, investigating anoma
 
 # 🛠️ Tech Stack & Toolkit
 
-### 💻 Languages
+###  Languages
 
 <p>
   <img src="https://img.shields.io/badge/Java-Core%20%26%20Advanced-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 </p>
 
-### 🛡️ Cyber Security
+###  Cyber Security
 
 <p>
   <img src="https://img.shields.io/badge/Digital%20Forensics-8A2BE2?style=flat-square" />
@@ -75,9 +75,9 @@ I enjoy going beyond theory — **analyzing system behavior, investigating anoma
 
 ---
 
-# 🚀 Featured Project
+#  Featured Project
 
-## 🔐 Java-Based Server Log Analyzer
+##  Java-Based Server Log Analyzer
 
 <a href="https://github.com/RasulMammadli/Java-Based-Server-Log-Analyzer">
   <img src="https://img.shields.io/badge/VIEW%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=white" />
@@ -85,7 +85,7 @@ I enjoy going beyond theory — **analyzing system behavior, investigating anoma
 
 An automated security-focused log processing engine designed to simulate **real-world threat detection and network security analysis**.
 
-### 🔎 What it does
+###  What it does
 
 * Detects **brute-force attack indicators**
 * Identifies **suspicious IP behavior**
@@ -95,13 +95,13 @@ An automated security-focused log processing engine designed to simulate **real-
 * Generates structured security reports
 * Simulates real-time **incident investigation workflows**
 
-### 🎯 Core Objective
+### Core Objective
 
 > Transform raw server logs into actionable security intelligence.
 
 ---
 
-# 📊 GitHub Activity
+#  GitHub Activity
 
 <div align="center">
 
@@ -117,7 +117,7 @@ An automated security-focused log processing engine designed to simulate **real-
 
 ---
 
-# 🎯 Current Focus
+# Current Focus
 
 
 
@@ -127,7 +127,7 @@ My long-term goal is to study **Cyber Security at a world-class university**, ga
 
 
 
-# 🤝 Let's Connect
+#  Let's Connect
 
 <div align="center">
 
@@ -149,7 +149,7 @@ My long-term goal is to study **Cyber Security at a world-class university**, ga
 
 <div align="center">
 
-### 🔐 *"The best way to predict the future is to secure it."*
+###  *"The best way to predict the future is to secure it."*
 
 <br/>
 
