@@ -120,7 +120,6 @@ An automated security-focused log processing engine designed to simulate **real-
 # 🎯 Current Focus
 
 ```text
-
 ```
 
 Currently, I'm focused on strengthening my technical foundations while building practical security projects.
@@ -129,9 +128,7 @@ My long-term goal is to study **Cyber Security at a world-class university**, ga
 
 ---
 
-
 ---
-
 
 ---
 
@@ -145,21 +142,24 @@ My long-term goal is to study **Cyber Security at a world-class university**, ga
   <img src="https://img.shields.io/badge/GitHub-RasulMammadli-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="mailto:resulm137@gmail.com">
-  <img src="https://img.shields.io/badge/Email-resulm137%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://instagram.com/rmammadli_1">
+  <img src="https://img.shields.io/badge/Instagram-@rmammadli__1-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-</div>
+<a href="mailto:resulm137@gmail.com">
+  <img src="https://img.shields.io/badge/Email-resulm137%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+</a> 
 
-<br/>
+</div> 
 
-<div align="center">
+<br/> 
+
+<div align="center"> 
 
 ### 🔐 *"The best way to predict the future is to secure it."*
 
-<br/>
+<br/> 
 
 **🇦🇿 Made with ambition from Azerbaijan**
 
 </div>
-
