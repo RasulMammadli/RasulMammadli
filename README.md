@@ -1,49 +1,47 @@
-#  Hi, I'm Rasul! 🇦🇿
-###  Aspiring Cyber Security Researcher & Software Engineer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=180&section=header&text=Hi,%20I'm%20Rasul!%20🇦🇿&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=38" />
+</p>
 
-A highly motivated student and aspiring Cyber Security specialist focused on **Digital Forensics, Threat Analysis, and Secure Software Development**. I love analyzing system behaviors, investigating network anomalies, and building security tools from scratch using Java.
-
-Beyond the terminal, I am a competitive **3rd-Degree Chess Player** (which shapes my strategic approach to threat hunting) and an active digital volunteering participant.
-
----
-
-##  Tech Stack & Toolkit
-
-- **Languages:** Java (Core & Advanced), Bash/Shell Scripting
-- **Domains:** Threat Intelligence, SIEM & Log Parsing, Incident Response Simulation
-- **Tools & Environments:** IntelliJ IDEA, Git, GitHub, Windows/Linux Environments
+### 👨‍💻 About Me
+* **Aspiring Cyber Security Researcher & Software Engineer** focused on **Digital Forensics, Threat Analysis, and Secure Software Development**. 
+* ♟️ Competitive **3rd-Degree Chess Player** (bringing strategic thinking to threat hunting).
+* 🎯 **Ultimate Goal:** Study Cyber Security at a world-class elite university abroad to strengthen Azerbaijan’s national cyber infrastructure.
 
 ---
 
-##  Featured Security Projects
+### 🛠️ Tech Stack & Toolkit
 
-###  [Java-Based Server Log Analyzer](https://github.com/RasulMammadli/Java-Based-Server-Log-Analyzer)
-*An automated log processing engine built to simulate threat detection and analyze network security events.*
-- Parses massive infrastructure logs to identify brute-force indicators, suspicious IP behaviors, and unauthorized access anomalies.
-- Implements custom text-parsing algorithms to clean raw data and extract high-fidelity forensic alerts.
-- Generates structured and actionable security reports directly to the console for real-time incident analysis.
+| Category | Technologies / Tools |
+| :--- | :--- |
+| **Languages** | `Java (Core & Advanced)`, `Bash/Shell Scripting` |
+| **Domains** | Threat Intelligence, SIEM & Log Parsing, Incident Response Simulation |
+| **Environments** | IntelliJ IDEA, Git, GitHub, Windows/Linux |
 
 ---
 
-##  My GitHub Stats
+### 🚀 Featured Security Projects
+
+* **[Java-Based Server Log Analyzer](https://github.com/RasulMammadli/Java-Based-Server-Log-Analyzer)**
+  * An automated log processing engine built to simulate threat detection using `HashMap`.
+  * Parses infrastructure logs to identify brute-force indicators and suspicious IP behaviors.
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RasulMammadli&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RasulMammadli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1f2335" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasulMammadli&layout=compact&theme=tokyonight&hide_border=true&bg_color=1f2335" width="48%" />
 </p>
 
 ---
 
-##  Current Focus & Aspirations
+<p align="center">
+  <i>"The best way to predict the future is to secure it."</i>
+</p>
 
--  **🇦🇿 Global Education, National Mission:** Driven by the ultimate goal of studying Cyber Security at a world-class elite university abroad, acquiring cutting-edge global expertise, and returning home to significantly strengthen and safeguard my nation's cyber infrastructure.
--  Deepening my technical skills in **Automated Threat Hunting** and defense-in-depth strategies.
--  Applying tactical chess strategies to modern defensive and offensive cyber operations.
-
----
-
-##  Connect with me
-
-- **GitHub:** [@RasulMammadli](https://github.com/RasulMammadli)
-- **Email:** [resulm137@gmail.com](mailto:resulm137@gmail.com)
-
-*"The best way to predict the future is to secure it."* 
+<p align="center">
+  <a href="mailto:resulm137@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
