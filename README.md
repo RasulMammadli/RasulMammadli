@@ -4,14 +4,10 @@
 
 ### Cyber Security Researcher · Software Engineer
 
-**Digital Forensics • Threat Analysis • Secure Development**
+**Digital Forensics · Threat Analysis · Secure Development**
 
-<a href="https://github.com/RasulMammadli">
-  <img src="https://img.shields.io/badge/GitHub-RasulMammadli-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="mailto:resulm137@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-RasulMammadli-181717?style=for-the-badge\&logo=github)](https://github.com/RasulMammadli)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:resulm137@gmail.com)
 
 </div>
 
@@ -19,64 +15,32 @@
 
 ## 🧠 About Me
 
-I'm a motivated student passionate about **Cyber Security** and **Software Engineering**.
+Student passionate about **Cyber Security & Software Engineering**.
+Focused on **Digital Forensics, Threat Hunting, SIEM, and Java development**.
 
-I enjoy investigating system behavior, analyzing security events, and building practical security tools with **Java**.
-
-♟️ **3rd-Degree Chess Player** — bringing strategic thinking into cybersecurity.
+♟️ 3rd-Degree Chess Player
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack
 
-**Languages**
-
-`Java` · `Bash`
-
-**Cybersecurity**
-
-`Digital Forensics` · `Threat Intelligence` · `SIEM` · `Log Analysis` · `Incident Response`
-
-**Tools**
-
-`Git` · `GitHub` · `IntelliJ IDEA` · `Linux` · `Windows`
+`Java` · `Bash` · `Git` · `Linux` · `Windows`
+`Digital Forensics` · `Threat Intelligence` · `SIEM` · `Incident Response`
 
 ---
 
 ## 🔐 Featured Project
 
-### Java-Based Server Log Analyzer
+**[Java-Based Server Log Analyzer](https://github.com/RasulMammadli/Java-Based-Server-Log-Analyzer)**
 
-<a href="https://github.com/RasulMammadli/Java-Based-Server-Log-Analyzer">
-
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
-
-</a>
-
-Security-focused Java tool designed to analyze server logs and identify suspicious activity.
-
-* 🔎 Brute-force detection
-* 🌐 Suspicious IP analysis
-* 🚨 Unauthorized access detection
-* 📊 Structured security reports
+Java-based security tool for detecting **brute-force attempts, suspicious IPs, and unauthorized access**.
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Focus
 
-* 🔎 Automated Threat Hunting
-* 🛡️ Defensive Security
-* 📊 SIEM & Detection Engineering
-* 💻 Secure Software Development
-* 🌍 Preparing for international Cyber Security education
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RasulMammadli&theme=github_dark" />
-</p>
+🔎 Threat Hunting · 🧾 Digital Forensics · 📊 SIEM
+🚨 Incident Response · 🌐 Network Security · 🔐 Secure Development
 
 ---
 
@@ -84,7 +48,6 @@ Security-focused Java tool designed to analyze server logs and identify suspicio
 
 ### 🔐 Investigate. Build. Secure.
 
-**🇦🇿 From Azerbaijan, building for the future.**
+🇦🇿 **Building from Azerbaijan**
 
 </div>
-
