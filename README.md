@@ -1,66 +1,43 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6&height=200&section=header&text=RASUL%20MAMMADLI&fontSize=50&fontColor=fff&animation=flash&fontAlignY=45" alt="Rasul Mammadli Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&height=50&lines=Cyber+Security+Researcher;Software+Engineer;Chess+Player+%E2%99%9E" alt="Typing SVG" />
 </p>
-
-<h2 align="center">
-  Aspiring Cyber Security Researcher & Software Engineer 🇦🇿
-</h2>
 
 <p align="center">
   <i>"The best way to predict the future is to secure it."</i>
 </p>
 
----
+<br>
 
-### 👨‍💻 About Me
+### 🛡️ About Me
 
-* 🎯 **Focus:** Digital Forensics, Threat Analysis, Secure Software Development, and Network Security.
-* 🎓 **Goal:** Pursue a Cyber Security Master's degree at a top-tier university abroad.
-* ♟️ **Mindset:** Strategic thinking honed as a 3rd-Degree Competitive Chess Player.
+- 💻 **Core Focus:** Digital Forensics, Threat Analysis & Secure Software Development.
+- 🎯 **Ambition:** Pursue a Master’s degree in Cyber Security abroad to build robust infrastructure.
+- ♟️ **Mindset:** Applying tactical, strategic thinking from competitive chess to threat hunting.
 
----
+<br>
 
-### 🛠️ Tech Stack & Toolkit
+### ⚡ Tech Stack
 
-* **Languages:** ☕ `Java (Core & Advanced)` · 🐚 `Bash/Shell Scripting` · 🐍 `Python` (Learning)
-* **Security & Defense:** 🛡️ Threat Intelligence Platforms · 🔍 `SIEM` (Splunk/ELK) · 🚨 Incident Response Simulation
-* **Environments:** 💻 `IntelliJ IDEA` · 🐙 `Git & GitHub` · 🖥️ `Windows / Linux`
+- **Languages:** `Java` · `Bash / Shell` · `Python`
+- **Security & Tools:** `SIEM (Splunk/ELK)` · `Threat Intel` · `Git` · `IntelliJ IDEA` · `Linux / Windows`
 
----
+<br>
 
-### 🚀 Featured Security Projects
+### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/1f2335/RasulMammadli" alt="GitHub Contribution Chart" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RasulMammadli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasulMammadli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3" alt="Top Languages" width="48%" />
 </p>
 
-* **[🛠️ Java-Based Server Log Analyzer](https://github.com/RasulMammadli)**
-  * An automated log processing engine built to simulate threat detection using `HashMap`.
-  * Parses infrastructure logs to identify brute-force indicators and suspicious IP behaviors.
-
----
-
-### 📊 GitHub Stats
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RasulMammadli&show_icons=true&theme=dark&hide_border=true&bg_color=1f2335&title_color=2196f3&icon_color=2196f3" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasulMammadli&layout=compact&theme=dark&hide_border=true&bg_color=1f2335&title_color=2196f3&icon_color=2196f3" alt="Top Languages" width="48%" />
-</p>
-
----
-
-<p align="center">
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/CONTACT_ME-2196f3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f2335" alt="Email" />
+  <a href="mailto:resulm137@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=2196F3&color=0D1117" alt="Email" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f2335" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2196F3&color=0D1117" alt="LinkedIn" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RasulMammadli.RasulMammadli&left_color=1f2335&right_color=2196f3" alt="Profile Views" />
 </p>
