@@ -41,30 +41,6 @@ I enjoy going beyond theory — **analyzing system behavior, investigating anoma
 
 ---
 
-# ⚔️ Security Mindset
-
-```text
-                    ┌──────────────────────┐
-                    │      SECURITY        │
-                    │       MINDSET        │
-                    └──────────┬───────────┘
-                               │
-             ┌─────────────────┼─────────────────┐
-             ▼                 ▼                 ▼
-        🔍 Investigate     🧠 Analyze       🛡️ Defend
-             │                 │                 │
-             └─────────────────┼─────────────────┘
-                               ▼
-                       🚨 Detect Threats
-                               │
-                               ▼
-                       ⚙️ Build Solutions
-```
-
-My approach is simple:
-
-**Understand the system → Detect abnormal behavior → Investigate the evidence → Build better defenses.**
-
 ---
 
 # 🛠️ Tech Stack & Toolkit
