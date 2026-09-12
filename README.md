@@ -1,43 +1,49 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&height=50&lines=Cyber+Security+Researcher;Software+Engineer;Chess+Player+%E2%99%9E" alt="Typing SVG" />
-</p>
+#  Hi, I'm Rasul! 🇦🇿
+###  Aspiring Cyber Security Researcher & Software Engineer
+
+A highly motivated student and aspiring Cyber Security specialist focused on *Digital Forensics, Threat Analysis, and Secure Software Development*. I love analyzing system behaviors, investigating network anomalies, and building security tools from scratch using Java.
+
+Beyond the terminal, I am a competitive *3rd-Degree Chess Player* (which shapes my strategic approach to threat hunting) and an active digital volunteering participant.
+
+---
+
+##  Tech Stack & Toolkit
+
+- *Languages:* Java (Core & Advanced), Bash/Shell Scripting
+- *Domains:* Threat Intelligence, SIEM & Log Parsing, Incident Response Simulation
+- *Tools & Environments:* IntelliJ IDEA, Git, GitHub, Windows/Linux Environments
+
+---
+
+##  Featured Security Projects
+
+###  [Java-Based Server Log Analyzer](https://github.com/RasulMammadli/Java-Based-Server-Log-Analyzer)
+An automated log processing engine built to simulate threat detection and analyze network security events.
+- Parses massive infrastructure logs to identify brute-force indicators, suspicious IP behaviors, and unauthorized access anomalies.
+- Implements custom text-parsing algorithms to clean raw data and extract high-fidelity forensic alerts.
+- Generates structured and actionable security reports directly to the console for real-time incident analysis.
+
+---
+
+##  My GitHub Stats
 
 <p align="center">
-  <i>"The best way to predict the future is to secure it."</i>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RasulMammadli&theme=dracula" alt="GitHub Stats" />
 </p>
 
-<br>
+---
 
-### 🛡️ About Me
+##  Current Focus & Aspirations
 
-- 💻 **Core Focus:** Digital Forensics, Threat Analysis & Secure Software Development.
-- 🎯 **Ambition:** Pursue a Master’s degree in Cyber Security abroad to build robust infrastructure.
-- ♟️ **Mindset:** Applying tactical, strategic thinking from competitive chess to threat hunting.
+-  *🇦🇿 Global Education, National Mission:* Driven by the ultimate goal of studying Cyber Security at a world-class elite university abroad, acquiring cutting-edge global expertise, and returning home to significantly strengthen and safeguard my nation's cyber infrastructure.
+-  Deepening my technical skills in *Automated Threat Hunting* and defense-in-depth strategies.
+-  Applying tactical chess strategies to modern defensive and offensive cyber operations.
 
-<br>
+---
 
-### ⚡ Tech Stack
+##  Connect with me
 
-- **Languages:** `Java` · `Bash / Shell` · `Python`
-- **Security & Tools:** `SIEM (Splunk/ELK)` · `Threat Intel` · `Git` · `IntelliJ IDEA` · `Linux / Windows`
+- *GitHub:* [@RasulMammadli](https://github.com/RasulMammadli)
+- *Email:* [resulm137@gmail.com](mailto:resulm137@gmail.com)
 
-<br>
-
-### 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RasulMammadli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasulMammadli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3" alt="Top Languages" width="48%" />
-</p>
-
-<br>
-
-<p align="center">
-  <a href="mailto:resulm137@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=2196F3&color=0D1117" alt="Email" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2196F3&color=0D1117" alt="LinkedIn" />
-  </a>
-</p>
+"The best way to predict the future is to secure it."
