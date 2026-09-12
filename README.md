@@ -126,20 +126,14 @@ Currently, I'm focused on strengthening my technical foundations while building 
 
 My long-term goal is to study **Cyber Security at a world-class university**, gain advanced international expertise, and use that knowledge to contribute meaningfully to the security and resilience of Azerbaijan's digital infrastructure.
 
----
 
----
-
----
-
----
 
 # 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/RasulMammadli">
-  <img src="https://img.shields.io/badge/GitHub-RasulMammadli-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-RasulMammadli-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://instagram.com/rmammadli_1">
@@ -147,18 +141,18 @@ My long-term goal is to study **Cyber Security at a world-class university**, ga
 </a>
 
 <a href="mailto:resulm137@gmail.com">
-  <img src="https://img.shields.io/badge/Email-resulm137%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
-</a> 
+  <img src="https://img.shields.io/badge/Gmail-resulm137%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-</div> 
+</div>
 
-<br/> 
+<br/>
 
-<div align="center"> 
+<div align="center">
 
 ### 🔐 *"The best way to predict the future is to secure it."*
 
-<br/> 
+<br/>
 
 **🇦🇿 Made with ambition from Azerbaijan**
 
