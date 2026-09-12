@@ -120,14 +120,7 @@ An automated security-focused log processing engine designed to simulate **real-
 # 🎯 Current Focus
 
 ```text
-Cyber Security
-     │
-     ├── 🔎 Automated Threat Hunting
-     ├── 🧾 Digital Forensics
-     ├── 📊 SIEM & Detection Engineering
-     ├── 🚨 Incident Response
-     ├── 🌐 Network Security
-     └── 🔐 Secure Software Development
+
 ```
 
 Currently, I'm focused on strengthening my technical foundations while building practical security projects.
@@ -136,54 +129,11 @@ My long-term goal is to study **Cyber Security at a world-class university**, ga
 
 ---
 
-# ♟️ Beyond Cybersecurity
-
-### Chess × Cybersecurity
-
-I've been competing in chess at **3rd-degree level**, and the connection between chess and cybersecurity is something I genuinely enjoy.
-
-| ♟️ Chess             | 🛡️ Cybersecurity        |
-| -------------------- | ------------------------ |
-| Think ahead          | Threat anticipation      |
-| Analyze positions    | Analyze systems          |
-| Identify weaknesses  | Find vulnerabilities     |
-| Predict the opponent | Model attacker behavior  |
-| Plan several moves   | Build defense strategies |
-| Adapt under pressure | Respond to incidents     |
-
-**Every move has consequences. Every system has an attack surface.**
 
 ---
 
-# 📈 My Learning Philosophy
-
-```text
-        THEORY
-          ↓
-       EXPERIMENT
-          ↓
-        BUILD
-          ↓
-      BREAK / TEST
-          ↓
-       ANALYZE
-          ↓
-        IMPROVE
-          ↓
-         REPEAT
-```
-
-I believe the fastest way to become better at cybersecurity is to **build things, break things safely, investigate what happened, and learn from the evidence.**
 
 ---
-
-# 🌍 Vision
-
-> **Build globally. Learn continuously. Defend locally.**
-
-My ambition is to become a highly capable cybersecurity professional with strong technical foundations in both **security research and software engineering**.
-
-The ultimate objective is not simply to understand cybersecurity — but to **create practical solutions that make digital systems safer.**
 
 ---
 
